@@ -1,4 +1,5 @@
 {
+  "name": "@muzamint/mylib-react-storybook",
   "version": "0.1.0",
   "license": "MIT",
   "main": "dist/index.js",
@@ -35,7 +36,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "mylib-react-storybook",
   "author": "Ming-der Wang",
   "module": "dist/mylib-react-storybook.esm.js",
   "size-limit": [
